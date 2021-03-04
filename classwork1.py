@@ -24,6 +24,13 @@ while n <= 5:
 print(sum1)	
 
 
+sum2 = 0
+i = 1
+while sum2 < 100000
+	sum2 += i
+print(sum2)	
+
+
 def my_function(num: int) -> int:
 
 	return num**2 - 2 * num + 1
