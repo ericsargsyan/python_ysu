@@ -26,7 +26,7 @@ print(sum1)
 
 sum2 = 0
 i = 1
-while sum2 < 100000
+while sum2 < 100000:
 	sum2 += i
 print(sum2)	
 
@@ -56,7 +56,7 @@ def sgn(num: int) -> int:
 print(sgn(0))
 print(sgn(2))
 print(sgn(-2))	
-
+print(sgn.__doc__)
 
 def next_function(num1: int, num2: int) -> int:
 	return 3 * num1 ** 2 + 5 * abs(num2)
