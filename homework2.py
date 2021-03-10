@@ -1,5 +1,57 @@
 import random
 
+# Problem 1 Dictionaries
+
+cities_AM = {"Yerevan": 1077600, "Hrazdan": 40400, "Vanadzor": 79300, "Gyumri": 114500, "Kapan": 57000}
+
+for i in cities_AM:
+	print(i)
+
+population = 0
+
+for i in cities_AM.values():
+	population += i
+
+print("Population: ", population)	 	
+
+def sort_descending_v(dictionary: dict):
+    # dictionary = sorted(dictionary.keys())
+    ls = list(dictionary.items())
+    for i in range(len(ls)):
+        for j in range(len(ls)):
+            if ls[i][1] > ls[j][1]:
+                ls[i], ls[j] = ls[j], ls[i]
+    dictionary = dict(ls)
+    return dictionary
+
+second_largest = list(sort_descending_v(cities_AM).items())[1]
+
+print(f"Second largest city in Armenia is {second_largest[0]} which population is {second_largest[1]:,}")    
+
+
+# Adding 6th city
+cities_AM.update({"Ijevan": 20500})
+print(cities_AM)
+
+
+# adding areas
+areas = [223, 152, 32, 54, 36, 4.6]
+
+keys = [key for key in cities_AM]
+
+cities_AM.update({keys[i]: (cities_AM[keys[i]], areas[i]) for i in range(len(cities_AM))})
+print(cities_AM)
+
+cities_GE = {"Berlin": 3769495, "Hamburg": 1845229}
+
+
+countries = {
+	"Armenia": cities_AM,
+	"Germany": cities_GE				
+}
+
+print(countries)
+
 # Problem 2 Control flows
 
 x = [1, -2, 3, 9, 0, 1, 3, 2, -2, -4, 1, -3]
@@ -118,3 +170,67 @@ def insertion_sort(random_list: list) -> list:
 
 print(bubble_sort(random_list))
 print(insertion_sort(random_list))
+
+
+# Problem 3 Functions
+
+def function1(x):
+	if x < 0:
+		return -1
+	elif x in range(0, 6):
+		return 4
+	return 9
+	
+ls1 = [-4, 3, 7]
+value_list1 = [function1(i) for i in ls1]
+
+print(f"Function values at the points {ls1}\n{value_list1}")	
+
+def function2(x):
+	if x in range(0, 11):
+		return 	0
+	return 1
+	
+ls2 = [-4, 0, 17]
+value_list2 = [function2(i) for i in ls2]	
+print(f"Function values at the points {ls2}\n{value_list2}")
+
+
+# Fibonacci Series
+
+def fibonacci(n: int):
+	print(f"Fibonacci Series up to the {n}")
+	f1 = 0
+	f2 = 1
+	while f1 <= n:
+		print(f1, end=' ')
+		f3 = f1 + f2
+		f1 = f2
+		f2 = f3	
+
+# validating number
+n = int(input("Input nubmer: "))			
+while True:
+	if n > 0:
+		break
+	else:
+		print("Number must be posotive!")
+	n = int(input("Input nubmer: "))
+
+fibonacci(n)
+
+def binomial_coefficients(n: int):
+	for k in range(0, n + 1):
+		print(int(my_facatorial(n) / (my_facatorial(n-k) * my_facatorial(k))), end=' ')
+
+
+number = int(input("Input number: "))
+
+binomial_coefficients(number)
+
+# Addition Binomial Triangle
+
+print("Pascal's Triangle")
+for i in range(number):
+	binomial_coefficients(i)
+	print("\n")
