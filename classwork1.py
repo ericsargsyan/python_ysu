@@ -71,12 +71,12 @@ print(triangle_area(5))
 
 
 def is_prime(number) -> bool:
-	for i in range(2, int(number / 2) + 1):
+	for i in range(2, int(number // 2) + 1):
 		if number % i == 0:
-			return True
-	if number == False:
-		return False		
-	return False
+			return False
+	if number == 2:
+		return True		
+	return True
 	
 print(is_prime(2))			
 
