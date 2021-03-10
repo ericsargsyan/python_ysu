@@ -1,1 +1,1 @@
-# repo for ysu python homeworks
+# *repo for ysu python homeworks*
