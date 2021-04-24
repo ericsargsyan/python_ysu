@@ -10,7 +10,7 @@
   <li>Taylor Series</li>
   <li>Images</li>
 
-
+<br>
 # <img alt="NumPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/scipylogo.png" height="70">
 
 <h4>Basics of Scipy.stats</h4>
