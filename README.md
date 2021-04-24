@@ -22,3 +22,8 @@
   <li>Graphics of constant, functions, distributions (plot)</li>
   <li>Graphics of points (scatter)</li>
   <li>Bloxpots</li>
+
+
+<img alt="NumPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/LaTeX_logo.svg" height="60">
+
+<h4>Basics of LaTex (math)</h4>
