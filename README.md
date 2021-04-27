@@ -26,4 +26,6 @@
 # <img alt="Pandas" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/Pandas_logo.png" height="120">
 
   <h4>Introduction to Pandas</h4>
+    <li>Series</li>
+    <li>Dataframes</li>
   
