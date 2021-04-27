@@ -10,15 +10,20 @@
   <li>Images</li><br>
 
 
-# <img alt="NumPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/scipylogo.png" height="70">
+# <img alt="SciPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/scipylogo.png" height="70">
 
 <h4>Basics of Scipy.stats</h4>
   <li>Distributions</li>
 
-# <img alt="NumPy" src="https://matplotlib.org/_static/logo2.svg" height="90">
+# <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2.svg" height="90">
 
 <h4>Introduction to Matplotlib.pyplot</h4>
   <li>Graphics of constants, functions, distributions(cdf, pdf) /(plot)</li>
   <li>Graphics of points (scatter)</li>
   <li>Bloxpots</li>
 
+
+# <img alt="Pandas" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/Pandas_logo.png" height="70">
+
+  <h4>Introduction to Pandas</h4>
+  
