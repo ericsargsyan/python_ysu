@@ -28,4 +28,8 @@
   <h4>Introduction to Pandas</h4>
     <li>Series</li>
     <li>Dataframes</li>
+    
+    
+<img alt="SeaBron" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg " height="130">    
+   
   
