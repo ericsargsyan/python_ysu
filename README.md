@@ -57,5 +57,5 @@
   <li>Neighbours</li>
   <li>Model_selection</li> 
   <li>Discriminant_analysis</li>
-  ...<br>
-  Some testing and minimal introducation
+
+  Some testings and minimal introducation
