@@ -44,7 +44,8 @@
     <li>Relplot</li>
     <li>Catplot</li>
  
-# <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="200"> 
+# <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="200">
+  <h4>Module for Machine Learning</h4>
    <ul>
     <li>Datasets</li>
        <ul>
@@ -52,4 +53,9 @@
           <li>Iris</li>
           <li>Boston</li>
        </ul> 
-  </ul>
+    </ul>
+  <li>Neighbours</li>
+  <li>Model_selection</li> 
+  <li>Discriminant_analysis</li>
+  ...
+  Some testing and minimal introducation
