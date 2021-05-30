@@ -10,7 +10,7 @@
     <li>Images</li><br>
 
 
-# <img alt="SciPy" src="https://image.pngaaa.com/125/1971125-middle.png" height="100">
+# <img alt="SciPy" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" height="100">
 
   <h4>Basics of Scipy.stats</h4>
     <li>Distributions</li>
