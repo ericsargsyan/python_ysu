@@ -30,6 +30,6 @@
     <li>Dataframes</li>
     
     
-# <img alt="SeaBorn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg " height="130">    
+# <img alt="SeaBorn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="130">    
    
   
