@@ -1,14 +1,8 @@
 
 # <img alt="NumPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/numpylogo.svg" height="110">
 
-  <h4>Introduction to NumPy</h4>
-    <li>Arrays (1D, 2D, 3D,...)</li>
-    <li>Random Package</li>
-    <li>Linalg Package</li>
-    <li>Integrals</li>
-    <li>Taylor Series</li>
-    <li>Images</li><br>
-
+  <h4>Full Introduction to NumPy</h4>
+   
 
 # <img alt="SciPy" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" height="120">
 
