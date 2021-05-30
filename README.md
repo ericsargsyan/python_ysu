@@ -10,7 +10,7 @@
     <li>Images</li><br>
 
 
-# <img alt="SciPy" src="https://github.com/ericsargsyan/python_ysu/blob/beff14e64912edb5e16a18a6b37853f205e8b75c/logos/scipylogo.png" height="100">
+# <img alt="SciPy" src="https://image.pngaaa.com/125/1971125-middle.png" height="100">
 
   <h4>Basics of Scipy.stats</h4>
     <li>Distributions</li>
