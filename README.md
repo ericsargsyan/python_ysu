@@ -1,5 +1,5 @@
 
-# <img alt="NumPy" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/numpylogo.svg" height="110">
+# <img alt="NumPy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" height="110">
 
   <h4>Full Introduction to NumPy</h4>
    
