@@ -3,12 +3,7 @@
 
   <h4>Full Introduction to NumPy</h4>
    
-
-# <img alt="SciPy" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" height="120">
-
-  <h4>Basics of Scipy.stats</h4>
-    <li>Distributions</li>
-
+   
 # <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2.svg" height="90">
 
   <h4>Introduction to Matplotlib.pyplot</h4>
@@ -26,8 +21,8 @@
     <li>Series</li>
     <li>Dataframes</li>
     <li>Visualization of DataFrames</li>
-    
-    
+
+
 # <img alt="SeaBorn" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="130"> 
 
    <h4>Statistical Data Visualization</h4>
@@ -37,7 +32,8 @@
     <li>Pairplot</li>
     <li>Relplot</li>
     <li>Catplot</li>
- 
+
+
 # <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="200">
   <h4>Module for Machine Learning</h4>
    <ul>
@@ -53,3 +49,9 @@
   <li>Discriminant_analysis</li>
 
   Some testings and minimal introducation
+  
+  
+# <img alt="SciPy" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" height="120">
+
+  <h4>Basics of Scipy.stats</h4>
+    <li>Distributions</li>
