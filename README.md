@@ -43,4 +43,5 @@
     <li>Pairplot</li>
     <li>Relplot</li>
     <li>Catplot</li>
-  
+ 
+  # <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="130"> 
