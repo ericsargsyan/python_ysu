@@ -45,9 +45,11 @@
     <li>Catplot</li>
  
 # <img alt="SkLearn" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" height="200"> 
-   <li>Datasets</li>
+   <ul>
+    <li>Datasets</li>
        <ul>
           <li>Digits</li>
           <li>Iris</li>
           <li>Boston</li>
-       </ul>    
+       </ul> 
+  </ul>
