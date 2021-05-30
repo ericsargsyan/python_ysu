@@ -55,3 +55,8 @@
 
   <h4>Basics of Scipy.stats</h4>
     <li>Distributions</li>
+    
+    
+# <img alt="Latex" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1280px-LaTeX_logo.svg.png" height="120">
+  <li>Math syntax in LaTex</li>
+  
