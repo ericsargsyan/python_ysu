@@ -15,7 +15,7 @@
     <li>3D Visualization</li>
 
 
-# <img alt="Pandas" src="https://github.com/ericsargsyan/python_ysu/blob/master/logos/Pandas_logo.png" height="130">
+# <img alt="Pandas" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" height="130">
 
   <h4>Introduction to Pandas</h4>
     <li>Series</li>
